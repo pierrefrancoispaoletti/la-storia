@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/la-storia/static/css/main.82baa561.chunk.css",
+    "main.js": "/la-storia/static/js/main.860e523d.chunk.js",
+    "main.js.map": "/la-storia/static/js/main.860e523d.chunk.js.map",
+    "runtime-main.js": "/la-storia/static/js/runtime-main.6b6fdc98.js",
+    "runtime-main.js.map": "/la-storia/static/js/runtime-main.6b6fdc98.js.map",
+    "static/js/2.9051ece6.chunk.js": "/la-storia/static/js/2.9051ece6.chunk.js",
+    "static/js/2.9051ece6.chunk.js.map": "/la-storia/static/js/2.9051ece6.chunk.js.map",
+    "static/js/3.a5e4e4ed.chunk.js": "/la-storia/static/js/3.a5e4e4ed.chunk.js",
+    "static/js/3.a5e4e4ed.chunk.js.map": "/la-storia/static/js/3.a5e4e4ed.chunk.js.map",
+    "static/js/4.4de64fad.chunk.js": "/la-storia/static/js/4.4de64fad.chunk.js",
+    "static/js/4.4de64fad.chunk.js.map": "/la-storia/static/js/4.4de64fad.chunk.js.map",
+    "index.html": "/la-storia/index.html",
+    "service-worker.js": "/la-storia/service-worker.js",
+    "service-worker.js.map": "/la-storia/service-worker.js.map",
+    "static/css/main.82baa561.chunk.css.map": "/la-storia/static/css/main.82baa561.chunk.css.map",
+    "static/js/2.9051ece6.chunk.js.LICENSE.txt": "/la-storia/static/js/2.9051ece6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/la-storia/static/media/crayonhand.f8408bf7.ttf",
+    "static/media/logo.89007a5a.png": "/la-storia/static/media/logo.89007a5a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b6fdc98.js",
+    "static/js/2.9051ece6.chunk.js",
+    "static/css/main.82baa561.chunk.css",
+    "static/js/main.860e523d.chunk.js"
+  ]
+}
